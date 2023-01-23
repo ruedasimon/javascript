@@ -1,2 +1,2 @@
 # javascript
-im learning
+i am learning
